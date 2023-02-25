@@ -1,4 +1,4 @@
-# Proposal for Web Content Accessibility Technology
+# Proposal for Web Content Accessibility Tools (WCAT)
 
 ## Overview
 
