@@ -8,18 +8,18 @@ Since web accessibility is a public good guaranteed by most democratic governmen
 
 ## Background
 
-The open-source community has a long history of creating technology to meet the needs of the public good. Open-source software tackles a wide range of societal challenges, including improving access to education, healthcare, and technology. In recent years, the open-source community has been working to improve web accessibility for people with disabilities.
+The open-source community has a long history of creating tools to meet the needs of the public good. 
 
-One example is the United States Web Design System (USWDS). The USWDS is a design system and set of guidelines and technology developed by the United States government to help government agencies create consistent, accessible, and user-friendly websites and digital services.
+One example of the successful implementation of an open-source technology project with the Government is the United States Web Design System (USWDS). The USWDS is a design system and set of guidelines and technology developed by the United States government to help government agencies create consistent, accessible, and user-friendly websites and digital services.
 
-Since its introduction in 2015, the USWDS has had a significant impact on the way the US government approaches digital design and development. Here are some key ways in which the USWDS has made an impact:
-- Consistency: The USWDS has helped to establish a more consistent and cohesive visual identity across government websites, which makes it easier for users to navigate and interact with those sites.
-Accessibility: The USWDS includes accessibility guidelines and tools to help ensure that government websites are accessible to all users, including those with disabilities.
+Since its introduction in 2015, the USWDS has significantly impacted how the US government approaches digital design and development. Here are some key ways in which the USWDS has made an impact:
+- Consistency: The USWDS has helped to establish a more consistent and cohesive visual identity across government websites, which makes it easier for users to navigate and interact with those sites. 
+- Accessibility: The USWDS includes accessibility guidelines and tools to help ensure that government websites are accessible to all users, including those with disabilities.
 - Efficiency: By providing a pre-built design system and reusable code, the USWDS has helped government agencies to create websites and digital services more quickly and efficiently.
 - Collaboration: The USWDS has encouraged collaboration and knowledge-sharing among government agencies, which has helped to improve the overall quality of government websites and digital services.
-- Adoption: The USWDS has been adopted by a growing number of government agencies, and has become the standard for digital design and development within the US government.
+- Adoption: The USWDS has been adopted by many government agencies and has become the standard for digital design and development within the US government.
 
-Overall, the USWDS has had a positive impact on the US government's approach to digital design and development, helping to create more consistent, accessible, and user-friendly websites and digital services for citizens.
+Overall, the USWDS has positively impacted the US government's approach to digital design and development, helping to create more consistent, accessible, and user-friendly websites and digital services for citizens. 
 
 ## Proposal
 
@@ -35,4 +35,6 @@ The WCAT project will be open-source and developed with the broader web developm
 
 ## Desired Outcomes
 
-The project to create Web Content Accessibility Tools (WCAT) will be crucial in promoting web accessibility for people with disabilities. By providing developers and content creators with clear learning resources and modern accessibility technology that can scale to the volume of the internet, the project will expand the horizons of humanity, helping to ensure that the web is a truly inclusive platform that everyone can use.
+WCAT intends to increase the adoption of the latest published version of Web Content Accessibility Guidelines (WCAG), while pushing WCAG to develop rules that support greater internet access for everyone. With over 96% of the million most popular websites failing to meet WCAG[^1], this project to improve web content accessibility is more vital than ever. Greater accessibility testing and remediation technology, coupled with better defined accessibility guidelines, means expanded horizons for everyone.
+
+[^1]:[The WebAIM Million](https://webaim.org/projects/million/)
