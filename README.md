@@ -10,7 +10,16 @@ Since web accessibility is a public good guaranteed by most democratic governmen
 
 The open-source community has a long history of creating technology to meet the needs of the public good. Open-source software tackles a wide range of societal challenges, including improving access to education, healthcare, and technology. In recent years, the open-source community has been working to improve web accessibility for people with disabilities.
 
-One example of this is the Accessible Rich Internet Applications (ARIA) standard, which provides a set of attributes that can be added to HTML to make web content more accessible to people with disabilities. ARIA was developed through a collaborative effort by members of the open-source community and has been widely adopted by web developers as a way to make their content more accessible.
+One example is the United States Web Design System (USWDS). The USWDS is a design system and set of guidelines and technology developed by the United States government to help government agencies create consistent, accessible, and user-friendly websites and digital services.
+
+Since its introduction in 2015, the USWDS has had a significant impact on the way the US government approaches digital design and development. Here are some key ways in which the USWDS has made an impact:
+- Consistency: The USWDS has helped to establish a more consistent and cohesive visual identity across government websites, which makes it easier for users to navigate and interact with those sites.
+Accessibility: The USWDS includes accessibility guidelines and tools to help ensure that government websites are accessible to all users, including those with disabilities.
+- Efficiency: By providing a pre-built design system and reusable code, the USWDS has helped government agencies to create websites and digital services more quickly and efficiently.
+- Collaboration: The USWDS has encouraged collaboration and knowledge-sharing among government agencies, which has helped to improve the overall quality of government websites and digital services.
+- Adoption: The USWDS has been adopted by a growing number of government agencies, and has become the standard for digital design and development within the US government.
+
+Overall, the USWDS has had a positive impact on the US government's approach to digital design and development, helping to create more consistent, accessible, and user-friendly websites and digital services for citizens.
 
 ## Proposal
 
