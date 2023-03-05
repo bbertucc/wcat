@@ -4,7 +4,7 @@
 
 Web Content Accessibility Tools (WCAT) is an open-source project to improve online access to information, services, and products.
 
-Since web accessibility is a public good guaranteed by most governments and made possible by altruistic open-source contributors, this project aims to be fully maintained by generous contributors and governments as we also work to ensure an ecosystem that rewards constant optimization.
+Since web accessibility is a public good guaranteed by most governments and made possible by altruistic open-source contributors, this project aims to sustain and advance free and open source systems (FOSS) that promote access to internet content.
 
 ## Background
 
